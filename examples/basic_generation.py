@@ -8,8 +8,8 @@ import asyncio
 
 import edge_tts
 
-TEXT = "Hello World!"
-VOICE = "en-GB-SoniaNeural"
+TEXT = "注意看，这个男人叫小帅!"
+VOICE = "zh-CN-YunxiNeural"
 OUTPUT_FILE = "test.mp3"
 
 
